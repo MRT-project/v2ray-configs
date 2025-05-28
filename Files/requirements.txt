@@ -1,2 +1,4 @@
 pybase64
 requests
+pyrogram
+tgcrypto
