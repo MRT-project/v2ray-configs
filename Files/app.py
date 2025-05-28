@@ -4,21 +4,11 @@ import requests
 import binascii
 import pybase64
 
-TIMEOUT = 20  # seconds
+TIMEOUT = 50  # seconds
 
-FIXED_TEXT_TEMPLATE = """#profile-title: base64:{encoded_title}
-#profile-update-interval: 1
-#subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
-#support-url: https://github.com/MRT-project/v2ray-configs
-#profile-web-page-url: https://github.com/MRT-project/v2ray-configs
-"""
+FIXED_TEXT_TEMPLATE = """"""
 
-DEFAULT_FIXED_TEXT = """#profile-title: base64:8J+GkyBHaXRodWIgfCBCYXJyeS1mYXIg8J+ltw==
-#profile-update-interval: 1
-#subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
-#support-url: https://github.com/MRT-project/v2ray-configs
-#profile-web-page-url: https://github.com/MRT-project/v2ray-configs
-"""
+DEFAULT_FIXED_TEXT = """"""
 
 PROTOCOLS = ["vmess", "vless", "trojan", "ss", "ssr", "hy2", "tuic", "warp://"]
 
