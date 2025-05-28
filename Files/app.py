@@ -40,8 +40,7 @@ def fetch_and_decode_links(links: list[str], decode_func) -> list[str]:
     for link in links:
         try:
             response = requests.get(link, timeout=TIMEOUT)
-            content = response.content if decode_func == decode_base64 else response.text
-            decoded = decode_func(content)
+            decoded = decode_func(response.content)  # Always pass bytes
             if decoded:
                 decoded_results.append(decoded)
         except requests.RequestException:
@@ -65,14 +64,16 @@ def ensure_directories() -> tuple[str, str]:
 
 def clean_existing_files(output_folder: str, base64_folder: str):
     """Delete previously generated files to avoid duplicates."""
-    os.remove(os.path.join(output_folder, "All_Configs_Sub.txt")) if os.path.exists(os.path.join(output_folder, "All_Configs_Sub.txt")) else None
-    os.remove(os.path.join(output_folder, "All_Configs_base64_Sub.txt")) if os.path.exists(os.path.join(output_folder, "All_Configs_base64_Sub.txt")) else None
-    
+    def safe_remove(path):
+        if os.path.exists(path):
+            os.remove(path)
+
+    safe_remove(os.path.join(output_folder, "All_Configs_Sub.txt"))
+    safe_remove(os.path.join(output_folder, "All_Configs_base64_Sub.txt"))
+
     for i in range(20):
-        sub_path = os.path.join(output_folder, f"Sub{i}.txt")
-        base64_path = os.path.join(base64_folder, f"Sub{i}_base64.txt")
-        if os.path.exists(sub_path): os.remove(sub_path)
-        if os.path.exists(base64_path): os.remove(base64_path)
+        safe_remove(os.path.join(output_folder, f"Sub{i}.txt"))
+        safe_remove(os.path.join(base64_folder, f"Sub{i}_base64.txt"))
 
 
 def write_combined_configs(filepath: str, configs: list[str]):
@@ -114,7 +115,6 @@ def main():
     output_dir, base64_dir = ensure_directories()
     clean_existing_files(output_dir, base64_dir)
 
-    # Define your links
     base64_links = [
         "https://raw.githubusercontent.com/MrPooyaX/VpnsFucking/main/BeVpn.txt",
         "https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/xray/base64/mix",
@@ -144,7 +144,7 @@ def main():
     ]
 
     decoded_base64 = fetch_and_decode_links(base64_links, decode_base64)
-    decoded_dirs = fetch_and_decode_links(dir_links, lambda x: x if isinstance(x, str) else x.decode("utf-8", errors="ignore"))
+    decoded_dirs = fetch_and_decode_links(dir_links, lambda x: x.decode("utf-8", errors="ignore"))
 
     combined = decoded_base64 + decoded_dirs
     merged = filter_protocols(combined, PROTOCOLS)
