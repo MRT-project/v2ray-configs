@@ -1,13 +1,3 @@
-#profile-title: base64:8J+GkyBHaXQ6TVJULXByb2plY3QgfCBTdWIxOCDwn5Sl
-#profile-update-interval: 1
-#subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
-#support-url: https://github.com/MRT-project/v2ray-configs
-#profile-web-page-url: https://github.com/MRT-project/v2ray-configs
-trojan://Aimer@104.21.22.182:443?sni=epccv.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-104.21.22.182:443
-trojan://Aimer@172.66.41.253:443?sni=epccf.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-172.66.41.253:443
-trojan://Aimer@104.22.58.188:443?sni=epccf.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-104.22.58.188:443
-trojan://Aimer@162.159.129.168:443?sni=epcca.ambercc.filegear-sg.me&type=ws#🔒 TR-WS-NA 🏴‍☠️ NA-162.159.129.168:443
-trojan://blue2024@104.16.38.173:443?sni=hb.lii2010.us.kg#🔒 TR-TCP-NA 🏴‍☠️ NA-104.16.38.173:443
 trojan://0f73d067-8fac-4bf4-a08e-ca2434ef5086@192.142.4.64:42405?security=tls&sni=cdn.alibaba.com&type=tcp#🔒 TR-TCP-TLS 🇭🇰 HK-192.142.4.64:42405
 trojan://fefba36d-5142-42f1-b14d-db5249511d93@172.67.152.170:443?security=tls&sni=5ttt.191288.xyz&type=ws&host=5ttt.191288.xyz&path=%2FBFBuPh4SuxTxCwkqKrjE#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.152.170:443
 trojan://Aimer@155.46.213.38:2083?sni=agepw.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇺🇸 US-155.46.213.38:2083
@@ -503,3 +493,8 @@ trojan://Aimer@49.51.179.33:443?sni=epccj.ambercc.filegear-sg.me#🔒 TR-TCP-NA 
 trojan://Aimer@172.67.158.150:443?sni=epccv.ambercc.filegear-sg.me&allowInsecure=0#🔒 TR-TCP-NA 🏴‍☠️ NA-172.67.158.150:443
 trojan://Aimer@172.64.157.21:443?sni=epccf.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-172.64.157.21:443
 trojan://VGZ0nM9KY3Qz@172.67.175.40:2096?security=tls&sni=esna.farsonline24.ir&type=httpupgrade&host=esna.farsonline24.ir&path=/🆔@M3HDIO1#🔒 TR-HTTPUPGRADE-TLS 🏴‍☠️ NA-172.67.175.40:2096
+trojan://19a78eeb-d83a-4364-b095-b7dd93436320@104.21.94.69:443?security=tls&sni=xXxcDdFR4ER.000890604.xyz&type=grpc&serviceName=Hq0I4JMKblWR0QwhWm3F&fp=chrome&alpn=h2#🔒 TR-GRPC-TLS 🏴‍☠️ NA-104.21.94.69:443
+trojan://e4af2638-bb12-4e4a-84f1-a032e23ca63f@20.2.156.167:443?sni=usla.mjt000.com&allowInsecure=0#🔒 TR-TCP-NA 🇭🇰 HK-20.2.156.167:443
+trojan://Aimer@108.165.152.55:2096?sni=epccn.ambercc.filegear-sg.me&allowInsecure=0#🔒 TR-TCP-NA 🇺🇸 US-108.165.152.55:2096
+trojan://Aimer@154.197.64.164:2053?sni=epccv.ambercc.filegear-sg.me&allowInsecure=0#🔒 TR-TCP-NA 🇸🇨 SC-154.197.64.164:2053
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@162.159.153.247:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.247:443
