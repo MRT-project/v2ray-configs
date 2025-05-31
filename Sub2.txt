@@ -1,3 +1,4 @@
+vless://1853d1d2-1ccf-48e6-ae05-0c0bb285a8c4@104.24.189.102:80?path=%2F%3Fed%3D2560&security=&encryption=none&host=winter-bush-f08c-ppal03.himigaw787.workers.dev&type=ws#%40Gp_Config%20%F0%9F%87%BA%F0%9F%87%B8%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGM3VQUk5yM3NRM2lzZlJBdGt6TVJF@62.60.231.81:59945#%40Gp_Config%20%F0%9F%87%BA%F0%9F%87%B8%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxWHZPN3pZVTdLZWFCME1kN0RRTG93@51.195.119.47:1080#%40Gp_Config%20%F0%9F%87%BA%F0%9F%87%B8%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@74.177.212.246:443#1
@@ -497,4 +498,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.123.101.241:990#�
 vless://670d931b-9d26-5c5b-9ee2-780be46e1cf0@5.180.52.15:2052?path=%2Fvless&security=&encryption=none&host=mihanwebhost.iri&type=ws#🇧🇪
 trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@94.131.20.3:443?security=tls&headerType=none&type=tcp&sni=nacho-rerun-crepe.stark-industries.solutions#🇸🇰
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.80.111.184:8880?path=%2FTelegram%40ShadowProxy66%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#%40V2rayNGVPN
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@194.53.53.20:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#%40V2rayNGVPN
