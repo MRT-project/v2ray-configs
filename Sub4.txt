@@ -1,20 +1,4 @@
 # 8J+GkyBUZWxlZ3JhbSBDb25maWcgfCBTdWI0IPCflKU=
-vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@172.67.75.194:8443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#a1%F0%9F%96%B2%EF%B8%8F%40oneclickvpnkeys
-
-
-
-@vpnstur
-تمام نت ها نامحدود 
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.199:8080#oiytfffdd
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.158.171.151:8080#uqyagagf
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.130:990#oauahzg
-🔻با یک ضربه روی سرور کپی میشود ، سپس سرور را وارد و متصل شوید. 
-
-🌎مخابرات (پر سرعت )⚡️
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkNsb3VkRmxhcmVfNSIsDQogICJhZGQiOiAidGVzdC50Y2kuY29uZmlnc2J5bWUuZ3EiLA0KICAicG9ydCI6ICI4NDQzIiwNCiAgImlkIjogImIzYWI1ZTg2LTczNmEtNGU5OS1kODc5LWJlNzAxMTNjNjJkYyIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiLyIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
 
 @XRayConfigs
 
