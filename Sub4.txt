@@ -1,67 +1,3 @@
-
-
-
-
-
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.188:8080#vpnstur
-
-
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#vpnstur
-
-
-
-@vpnstur
-تمام نت ها نامحدود 
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.166:8080#%puayaff
-
-trojan://psycho@104.21.32.1:443?path=%2Ftrv9KENu5FqbFAtPFq%3Fed%3D2560&security=tls&alpn=http%2F1.1&host=psycho.suex12.ir&fp=randomized&type=ws&sni=pSYcho.sUeX12.IR#uayavfd
-
-vless://102e5f34-1913-4dd3-a1f2-f831d891a490@104.16.186.41:443?path=%2Fsinavm-sinavm%2F%3Fed%3D2560&security=tls&encryption=none&host=cr7.traneh.dpdns.org&type=ws&sni=cr7.traneh.dpdns.org#paiagf
-تمام نت ها نامحدود ✅
-
-vless://90efad13-d266-4d10-a914-bc40028ec469@94.131.108.195:53221?security=none&encryption=none&headerType=none&type=tcp#nfcssaa
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@74.177.139.60:443#pugsss
-
-vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.20.34:2095?path=%2FTelegram%40V2ray_Alpha&security=none&encryption=none&host=5-55sfjslf.ifenxiang.cfd&type=ws#sdfsdd
-تمام نت ها نامحدود 
-
-vless://68665e7f-31c1-49f4-9347-3e18c18e024b@165.232.37.139:1615?security=reality&encryption=none&pbk=JGnVRUSzYfMg3pwJKIGO84Lyo1_nalQe21b3EG0JiV8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=refersion.com#majayagt
-
-vless://c7fb7cc9-be80-44dc-bfe3-a7d1429ca8b2@raynitro.holooserver.com:20878?security=none&encryption=none&headerType=none&type=tcp#iauaggff
-
-vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.20.34:2095?path=%2FTelegram%40V2ray_Alpha&security=none&encryption=none&host=5-55sfjslf.ifenxiang.cfd&type=ws#apaiahy
-v2ray 
-
-vless://d6b8011a-c725-435a-9fec-bf6d3530392c@162.159.153.2:443?path=%2FTelegram%40FreeIranWeb%2F%3Fed%3D2560&security=tls&encryption=none&host=vlee.amclubs.nyc.mn&fp=randomized&type=ws&sni=vlee.amclubs.nyc.mn#vpnstur
-
-نامحدود 
-
-vmess://eyJhZGQiOiI0NS4xMi4xMzguNDciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMjg1OGE0MDQtZDBjYS00ZDY3LTgwYTYtY2U4ZTk1ZTM4M2ZmIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyMjgzOSIsInBzIjoidnBuc3R1ciIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-تمام نت ها نامحدود 
-
-vless://0f7254ed-765d-4916-819f-b47f0664ae27@172.66.168.209:443?path=%2Flinkws%3Fed%3D2560&security=tls&encryption=none&host=mAXNETvIPAp-UK2.MaxnETServIcES.onLiNe&type=ws&sni=mAXNETvIPAp-UK2.MaxnETServIcES.onLiNe#pkhrcds
-
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.108:8880?mode=gun&security=none&encryption=none&type=grpc#utressw
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.164:8080#redtrr
-تمام نت ها نامحدود 
-
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.25.7:8880?mode=gun&security=none&encryption=none&type=grpc#%iyvdsxd
-
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.240:8880?mode=gun&security=none&encryption=none&type=grpc#iayagag
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@45.154.206.192:990#%gecfsst
-تمام نت ها نامحدود 
-
-vless://TELEGRAM-ServerNett@[2a01:4f8:1c1b:2411::1]:43224?security=none&encryption=none&headerType=none&type=tcp#uayavvf
-
-vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.16.148.244:2087?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#iauagat
-
-vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.10.162:2086?path=%2FTelegram%40WedbazTelsecurity&security=none&encryption=none&host=5-55sfjslf.ifenxiang.cfd&type=ws#iaauagg
 v2ray نامحدود 
 
 
@@ -92,13 +28,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.199:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.158.171.151:8080#uqyagagf
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.130:990#oauahzg
-تمام نت ها نامحدود 
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.188:8080#kauaytr
-
-vless://dfc1a9ab-6241-4b73-92f7-b299fc6b7751@172.67.70.123:2052?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=hit.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.trepaspeedtest.betrat.com.eu.com.sh847.ir.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.fffffffff.ddns-ip.net.&type=ws#jayataf
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.251:8080#pakAhg
 🔻با یک ضربه روی سرور کپی میشود ، سپس سرور را وارد و متصل شوید. 
 
 🌎مخابرات (پر سرعت )⚡️
