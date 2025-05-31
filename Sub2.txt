@@ -1,4 +1,9 @@
 # 8J+GkyBUZWxlZ3JhbSBDb25maWcgfCBTdWIyIPCflKU=
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@ufc.ru:80?path=%2FChannel-MOSIV2--MOSIV2--Channel-MOSIV2--MOSIV2%3Fed%3D2560&security=&encryption=none&host=Channel-MOSIV2--MOSIV2.IR&type=ws#%40Gp_Config%20%F0%9F%87%BA%F0%9F%87%B8%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.80.111.166:80?path=Telegram%F0%9F%87%AE%F0%9F%87%B7Channel%20id%3A%20%40ShadowProxy66%20%2F%3Fed%3D2560&security=&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#%40Gp_Config%20%F0%9F%87%BA%F0%9F%87%B8%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTVNOaDIxVHJYalIyb2syNVEybkU4RU5UMnpvQm1QdmthM1JDQ1VBSFpFTENuV29la1ZqdmFmODlxd2NSa2RieEVmZXAyYmMyYVV0bW54cXZGMWF5UVJlejFKSGpVTGo%3D@166.88.131.195:52952#%40Gp_Config%20%F0%9F%87%BA%F0%9F%87%B8%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+vless://50ee58d2-fc50-4df1-8c64-1fd1fa4a9c7d@join.VPNCUSTOMIZE.fast.hosting-ip.com:80?type=ws&host=Channel-VPNCUSTOMIZE.ir&path=/Telegram—VPNCUSTOMIZE%3Fed2048#All
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@74.177.212.246:443#mahacfr
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOY3gzZG9TS0V5b2I2eUEwQ0t5RmdX@91.132.196.176:44324#pauagf
 vless://ed29a0e3-5a32-4a7f-8863-277e9f653629@193.31.117.25:8080?mode=gun&security=none&encryption=none&type=grpc#oauahg
 vless://7979b82a-a615-4e4e-b4ce-34260f6e8bd6@104.17.147.22:80?mode=auto&path=%2F%3F&security=none&encryption=none&host=mother5280.dgclix.ir&type=xhttp#%40NETMelliAnti
@@ -494,8 +499,3 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@89.116.161.20:8880/?type=ws&encrypt
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@147.78.140.20:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=%2F%3Fed%3D2560#16%F0%9F%AB%A7%40oneclickvpnkeys
 vless://97f89f2f-5b00-4e62-831c-507fbde44703@lunavopershian.adas.monster:15483?mode=auto&path=%2Fshahin2001&security=reality&encryption=none&pbk=YwovOka4bw_cog0WRI_245U9NC4I26TaGxhAKfGSskM&fp=chrome&spx=%2F&type=xhttp&sni=lunavopershiansni369871.adas.monster&sid=e559dd#@meli_proxyy
 vless://3058e698-61fd-4d12-95bc-f1fe4c071713@www.speedtest.net:443?path=%2FRklUHeautH5uvnSB%2FNTQuMTY5LjIyOS4xODg&security=tls&alpn=http%2F1.1&encryption=none&host=hozori.ir&fp=randomized&type=ws&sni=hOZori.iR#@meli_proxyy
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.103:8880?path=%2F&security=&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#@meli_proxyy
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@92.243.74.20:8880?path=%2F%3Fed%3D2560&security=&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#@meli_proxyy
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXbDNTWWoyeHpkNTJOTFpFQlU0d0NO@35.170.192.169:5842#@meli_proxyy
-vless://2404f667-5969-4883-a71a-ea2e0db2d25b@hajlab.ucdavis.edu:80?path=%2F%3Fed%3D2048&security=&encryption=none&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v01.pronetwork.com&type=ws#@meli_proxyy
-vless://Parsashonam-245@zmaoz.faculty.ucdavis.edu:80?path=%2F%40Parsashonam%3Fed%3D2048&security=&encryption=none&host=Parsashonam-DE.ir&type=ws#@meli_proxyy
