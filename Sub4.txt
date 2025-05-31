@@ -1,23 +1,4 @@
 # 8J+GkyBUZWxlZ3JhbSBDb25maWcgfCBTdWI0IPCflKU=
-@XRayConfigs
-
-ارتباط با ادمین : @XRayConfigs_Admin
-🔻با یک ضربه روی سرور کپی میشود ، سپس سرور را وارد و متصل شوید.
-
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogItqp2KfZhtin2YQgQFhSYXlDb25maWdzLTEiLA0KICAiYWRkIjogImNsb3VkLmNvbmZpZ3NieW1lLmdhIiwNCiAgInBvcnQiOiAiODA4MCIsDQogICJpZCI6ICJlODYyYTVkNy1mYzczLTRlMjEtYjM4My00NzA2MmJkY2JlNGYiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi8iLA0KICAidGxzIjogIm5vbmUiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
-
-@XRayConfigs
-ارتباط با ادمین :@XRayConfigs_Admin
-🔻با یک ضربه روی سرور کپی میشود ، سپس سرور را وارد و متصل شوید.
-
-vless://3bec24ec-6248-4ede-9a42-ba5f39c8754d@cloud.configsbyme.ga:2095?encryption=none&security=none&type=ws&path=%2F#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%40XRayConfigs
-
-@XRayConfigs
-🔻با یک ضربه روی سرور کپی میشود ، سپس سرور را وارد و متصل شوید.
-
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogItqp2KfZhtin2YQgQFhSYXlDb25maWdzIiwNCiAgImFkZCI6ICJjbG91ZC5jb25maWdzYnltZS5nYSIsDQogICJwb3J0IjogIjIwODYiLA0KICAiaWQiOiAiZmQ5MGIwZmUtMWI1Zi00MWM4LTg1MTItNjgzNzNmZmYxNjM3IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIvIiwNCiAgInRscyI6ICJub25lIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
-
-@XRayConfigs
 🔻با یک ضربه روی سرور کپی میشود ، سپس سرور را وارد و متصل شوید.
 
 vless://0307f9b8-5186-49e7-88c3-da9421cb52dd@cloud.configsbyme.ga:2082?encryption=none&security=none&type=ws&path=%2F#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%40XRayConfigs
