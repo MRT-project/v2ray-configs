@@ -1,4 +1,7 @@
 
+vmess://eyJhZGQiOiI0NS4xMi4xMzguNDciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMjg1OGE0MDQtZDBjYS00ZDY3LTgwYTYtY2U4ZTk1ZTM4M2ZmIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyMjgzOSIsInBzIjoidnBuc3R1ciIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+تمام نت ها نامحدود 
+
 vless://0f7254ed-765d-4916-819f-b47f0664ae27@172.66.168.209:443?path=%2Flinkws%3Fed%3D2560&security=tls&encryption=none&host=mAXNETvIPAp-UK2.MaxnETServIcES.onLiNe&type=ws&sni=mAXNETvIPAp-UK2.MaxnETServIcES.onLiNe#pkhrcds
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.108:8880?mode=gun&security=none&encryption=none&type=grpc#utressw
