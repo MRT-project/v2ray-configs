@@ -1,72 +1,4 @@
 # 8J+GkyBUZWxlZ3JhbSBDb25maWcgfCBTdWI0IPCflKU=
-@XRayConfigs
-
-ارتباط با ادمین : @XRayConfigs_Admin
-🔻با یک ضربه روی سرور کپی میشود ، سپس سرور را وارد و متصل شوید.
-
-🌍همراه اول (پر سرعت ) ⚡️  (5GB) 
-
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkNsb3VkRmxhcmVfNSIsDQogICJhZGQiOiAidGVzdC5tY2kuY29uZmlnc2J5bWUuZ3EiLA0KICAicG9ydCI6ICI4NDQzIiwNCiAgImlkIjogImE0MzczNTUxLThmYWYtNDg0MC1jMDIzLWI0MmFlYjJjNWQ1NiIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiY2xvdWQuY29uZmlnc2J5bWUuZ3EiLA0KICAicGF0aCI6ICIvIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogImNsb3VkLmNvbmZpZ3NieW1lLmdxIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
-
-@XRayConfigs
-
-ارتباط با ادمین : @XRayConfigs_Admin
-🔻با یک ضربه روی سرور کپی میشود ، سپس سرور را وارد و متصل شوید.
-
-vless://469e3e18-f648-48e3-ef74-623aa4db91be@cloud.configsbyme.ga:2082?encryption=none&security=none&type=ws&path=%2F#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%40XRayConfigs-4
-
-@XRayConfigs
-
-ارتباط با ادمین : @XRayConfigs_Admin
-🔻با یک ضربه روی سرور کپی میشود ، سپس سرور را وارد و متصل شوید.
-
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogItqp2KfZhtin2YQgQFhSYXlDb25maWdzLTMiLA0KICAiYWRkIjogImNsb3VkLmNvbmZpZ3NieW1lLmdhIiwNCiAgInBvcnQiOiAiMjA1MiIsDQogICJpZCI6ICIxMWQwYTE2MS00Nzg5LTQ3MmItYTcxNy00NDBlMDBlZmNjOGYiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi8iLA0KICAidGxzIjogIm5vbmUiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
-
-@XRayConfigs
-
-ارتباط با ادمین : @XRayConfigs_Admin
-🔻با یک ضربه روی سرور کپی میشود ، سپس سرور را وارد و متصل شوید. 
-❤️مخابرات (پر سرعت ) vip
-
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkNsb3VkRmxhcmVfNSIsDQogICJhZGQiOiAidGVzdC50Y2kuY29uZmlnc2J5bWUuZ3EiLA0KICAicG9ydCI6ICI4NDQzIiwNCiAgImlkIjogImE0MzczNTUxLThmYWYtNDg0MC1jMDIzLWI0MmFlYjJjNWQ1NiIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiY2xvdWQuY29uZmlnc2J5bWUuZ3EiLA0KICAicGF0aCI6ICIvIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogImNsb3VkLmNvbmZpZ3NieW1lLmdxIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
-
-@XRayConfigs
-
-ارتباط با ادمین : @XRayConfigs_Admin
-🔻با یک ضربه روی سرور کپی میشود ، سپس سرور را وارد و متصل شوید. 
-❤️ایرانسل (پر سرعت ) vip
-
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkNsb3VkRmxhcmVfNSIsDQogICJhZGQiOiAidGVzdC5tdG4uY29uZmlnc2J5bWUuZ3EiLA0KICAicG9ydCI6ICI4NDQzIiwNCiAgImlkIjogImE0MzczNTUxLThmYWYtNDg0MC1jMDIzLWI0MmFlYjJjNWQ1NiIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiY2xvdWQuY29uZmlnc2J5bWUuZ3EiLA0KICAicGF0aCI6ICIvIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogImNsb3VkLmNvbmZpZ3NieW1lLmdxIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
-
-@XRayConfigs
-
-ارتباط با ادمین : @XRayConfigs_Admin
-🔻با یک ضربه روی سرور کپی میشود ، سپس سرور را وارد و متصل شوید. 
-❤️همراه اول (پر سرعت ) vip
-
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkNsb3VkRmxhcmVfNSIsDQogICJhZGQiOiAidGVzdC5tY2kuY29uZmlnc2J5bWUuZ3EiLA0KICAicG9ydCI6ICI4NDQzIiwNCiAgImlkIjogImE0MzczNTUxLThmYWYtNDg0MC1jMDIzLWI0MmFlYjJjNWQ1NiIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiY2xvdWQuY29uZmlnc2J5bWUuZ3EiLA0KICAicGF0aCI6ICIvIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogImNsb3VkLmNvbmZpZ3NieW1lLmdxIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
-
-@XRayConfigs
-
-ارتباط با ادمین : @XRayConfigs_Admin
-🔻با یک ضربه روی سرور کپی میشود ، سپس سرور را وارد و متصل شوید.
-
-vless://c2e07b75-ce31-4f06-b1e7-1378a71f96ec@cloud.configsbyme.ga:8880?encryption=none&security=none&type=ws&path=%2F#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%40XRayConfigs-2
-
-@XRayConfigs
-
-ارتباط با ادمین : @XRayConfigs_Admin
-🔻با یک ضربه روی سرور کپی میشود ، سپس سرور را وارد و متصل شوید.
-
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogItqp2KfZhtin2YQgQFhSYXlDb25maWdzLTEiLA0KICAiYWRkIjogImNsb3VkLmNvbmZpZ3NieW1lLmdhIiwNCiAgInBvcnQiOiAiODA4MCIsDQogICJpZCI6ICJlODYyYTVkNy1mYzczLTRlMjEtYjM4My00NzA2MmJkY2JlNGYiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi8iLA0KICAidGxzIjogIm5vbmUiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
-
-@XRayConfigs
-ارتباط با ادمین :@XRayConfigs_Admin
-🔻با یک ضربه روی سرور کپی میشود ، سپس سرور را وارد و متصل شوید.
-
-vless://3bec24ec-6248-4ede-9a42-ba5f39c8754d@cloud.configsbyme.ga:2095?encryption=none&security=none&type=ws&path=%2F#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%40XRayConfigs
-
-@XRayConfigs
 🔻با یک ضربه روی سرور کپی میشود ، سپس سرور را وارد و متصل شوید.
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogItqp2KfZhtin2YQgQFhSYXlDb25maWdzIiwNCiAgImFkZCI6ICJjbG91ZC5jb25maWdzYnltZS5nYSIsDQogICJwb3J0IjogIjIwODYiLA0KICAiaWQiOiAiZmQ5MGIwZmUtMWI1Zi00MWM4LTg1MTItNjgzNzNmZmYxNjM3IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIvIiwNCiAgInRscyI6ICJub25lIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
