@@ -1,4 +1,7 @@
 # 8J+GkyBUZWxlZ3JhbSBDb25maWcgfCBTdWIyIPCflKU=
+vless://a0de1607-5b63-fab8-a759-9f98706b6125@178.20.215.10:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=speed.cloudflare.com&fp=chrome&security=reality&pbk=GfTzhy59k9CXlAdF819OUVeBdrqIILaDIWa1bddjGnA&sid=#%F0%9F%8D%9369%40oneclickvpnkeys
+vless://e486066b-3308-4114-a9a6-5648750b071f@zmaoz.faculty.ucdavis.edu:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#@meli_proxyy
+vmess://eyJhZGQiOiJ0cVdFNC5mUmVldlBuQXRtMjAyNS5kcGRuUy5vUmciLCJhaWQiOiIwIiwiYWxwbiI6Imh0dHAvMS4xIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoidHF3ZTQuZnJlZXZwbmF0bTIwMjUuZHBkbnMub3JnIiwiaWQiOiJhYzViMmU1Mi00MzViLTQ0NjEtYTk5Yy0xMzE3YWIwZTI4ODkiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdmp2TlNNWGh6M285OURtWkRvMG9qdTJzdDEiLCJwb3J0IjoiNDQzIiwicHMiOiIzMDDar9uM2q8gMznYqtmI2YXYp9mGISDYqtiz2KrigIzYsdin24zar9in2Ybwn6SpVGlja1YyYm90QCIsInNjeSI6ImF1dG8iLCJzbmkiOiJUUVdlNC5mUmVlVlBuYVRtMjAyNS5kUGROcy5vckciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
 vless://e486066b-3308-4114-a9a6-5648750b071f@speedtest.net:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#@M4Dvpn
 vless://e486066b-3308-4114-a9a6-5648750b071f@zmaoz.faculty.ucdavis.edu:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#@M4Dvpn
 vmess://eyJhZGQiOiIxNTcuMTgwLjg5LjIzOSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI0NWE5MmQ3Ny1kOTQ4LTRkZjItYjU1Zi0xYjA1YzlkOTRmN2YiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjI5MzAxIiwicHMiOiLwn42TNzBAb25lY2xpY2t2cG5rZXlzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
@@ -496,6 +499,3 @@ vless://telegram-id-ArV2ray3@193.46.81.67:3567?security=reality&sni=maps.google.
 trojan://telegram-id-privatevpns@13.37.184.135:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp#2
 trojan://telegram-id-directvpn@13.37.184.135:22223?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp#3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@172.187.115.175:443#%40V2rayNGVPN
-trojan://telegram-id-privatevpns@15.237.104.107:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
-trojan://telegram-id-directvpn@15.237.104.107:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.237.104.107:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig
