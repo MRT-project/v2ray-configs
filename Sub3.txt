@@ -1,4 +1,13 @@
 # 8J+GkyBUZWxlZ3JhbSBDb25maWcgfCBTdWIzIPCflKU=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0aWhBZ1Z4Wk8xMnU%3D@81.177.215.84:443#%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%F0%9F%8C%8B%40vmesc
+vless://6603a779-07c9-4bc9-8f61-4a09c238653a@62.60.193.221:32774?path=%2F6603a779&security=&encryption=none&host=%2FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&type=ws#%40Gp_Config%20%F0%9F%87%BA%F0%9F%87%B8%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@130.250.137.29:8880?path=%2FTelegramU0001F1E8U0001F1F3&security=&encryption=none&host=hk.laoyoutiao.link&type=ws&sni=hk.laoyoutiao.link#%40Gp_Config%20%F0%9F%87%BA%F0%9F%87%B8%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+vless://73ef5ea7-6452-4c44-88f5-d088aad4ba4a@38.242.196.10:25574?security=&encryption=none&headerType=none&type=tcp#%40Gp_Config%20%F0%9F%87%BA%F0%9F%87%B8%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3WkVZckIyNWVMcGlMaEIyN3U3Y3VMRG9STDZqaFpNZkN4cnNyTXZPeGNTMkVNR2J2V2lKZEsyaXRpV1VIQVE9@45.43.137.114:443#%40Gp_Config%20%F0%9F%87%BA%F0%9F%87%B8%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWZmFFYXRHajdpWG5jVnBpaktGQzFl@62.60.231.81:59945#%40Gp_Config%20%F0%9F%87%BA%F0%9F%87%B8%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+vless://telegram-id-ArV2ray9@151.101.64.155:80?path=%2F-ArV2ry%40ArV2ry-TEL--%40ArV2ry-TEL--%40ArV2ry-TEL--%40ArV2ry-JOIN-%40ArV2ry-TEL--%40ArV2ry-JOIN-%40ArV2ry-TEL-%40ArV2ry-TEL--%40ArV2ry-JOIN-%40ArV2ry-TEL--%40ArV2ry%3Fed%3D2048&security=none&encryption=none&host=mard.ankaboti.com.&type=ws#WS2-All%20%7C%20%40HajmVPN
+vless://50ee58d2-fc50-4df1-8c64-1fd1fa4a9c7d@Join.VPNCUSTOMIZE.cloud1.hosting-ip.com:8880?path=%2FTelegram%E2%80%94VPNCUSTOMIZE%3Fed%3D2048&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=join.vpncustomize.iran.ir.arvancloud.ir.www.speedtest.net.yout.ddns-ip.net&fp=randomized&type=ws#%D8%B3%D8%B1%D9%88%D8%B1%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%D9%88%20%DA%AF%D9%88%D8%AF%D8%B1%D8%AA%D9%85%D9%86%D8%AF%F0%9F%98%8E%F0%9F%8E%81%F0%9F%94%B0%20%40V2RAYNG_Outline_VPN
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@92.243.74.3:443?path=%2Fproxyip%3Dzani.yaemiko.ggff.net&security=tls&alpn=http%2F1.1&encryption=none&host=carlotta.shorekeeper.cloudns.org&fp=randomized&type=ws&sni=carlotta.shorekeeper.cloudns.org#%40IRAN_V2RAY1
 vmess://eyJhZGQiOiI0NS4xMi4xMzguODIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiY2RlOWYwNzQtYzkzMC00YWEzLWE1NTgtNDZiYmM5ZDBhNWExIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI1NDc1NyIsInBzIjoiQElSQU5fVjJSQVkxIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmcnNhNURGelJBTllQczV5TWV4c1ZVckM3ZDZOWThwdkJSRm40ZzFXa0Y0UjcxWTVhNkU2cVlwM1N4UDJFYVVoMnlYc0FLYlRBbTdTbUw1cWs1eE1Hb0RSakg1RjhCQlU%3D@166.1.157.228:55330#%40IRAN_V2RAY1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWZmFFYXRHajdpWG5jVnBpaktGQzFl@62.60.231.81:59945#%40IRAN_V2RAY1
@@ -490,12 +499,3 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogItqp2KfZhtin2YQgQFhSYXlDb25maWdzLTEiLA0K
 @XRayConfigs
 ارتباط با ادمین :@XRayConfigs_Admin
 🔻با یک ضربه روی سرور کپی میشود ، سپس سرور را وارد و متصل شوید.
-
-vless://3bec24ec-6248-4ede-9a42-ba5f39c8754d@cloud.configsbyme.ga:2095?encryption=none&security=none&type=ws&path=%2F#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%40XRayConfigs
-
-@XRayConfigs
-🔻با یک ضربه روی سرور کپی میشود ، سپس سرور را وارد و متصل شوید.
-
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogItqp2KfZhtin2YQgQFhSYXlDb25maWdzIiwNCiAgImFkZCI6ICJjbG91ZC5jb25maWdzYnltZS5nYSIsDQogICJwb3J0IjogIjIwODYiLA0KICAiaWQiOiAiZmQ5MGIwZmUtMWI1Zi00MWM4LTg1MTItNjgzNzNmZmYxNjM3IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIvIiwNCiAgInRscyI6ICJub25lIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
-
-@XRayConfigs
