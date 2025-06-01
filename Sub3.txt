@@ -1,4 +1,30 @@
 # 8J+GkyBUZWxlZ3JhbSBDb25maWcgfCBTdWIzIPCflKU=
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@209.46.30.20:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#%D8%B3%D8%B1%D9%88%D8%B1%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%F0%9F%91%88%F0%9F%92%9A%F0%9F%8C%B1%0A%40v2rayfree_server
+ss://YWVzLTI1Ni1nY206MmUxZjljOGQwZDRmNzk4OA%3D%3D@107.189.6.201:2025#%F0%9F%87%B1%F0%9F%87%BA%20%40NIM_VPN_ir
+vless://190492bf-0111-451b-aa16-3490dacd1be7@a.nl.cdn.maviks.eu:443?encryption=none&security=tls&sni=cdn.maviks.eu&fp=chrome&type=httpupgrade&host=cdn.maviks.eu&path=%2FMaGLM25tSikPTFr75Q0Yri#%40meli_proxyy
+vless://d3541bb4-2cb5-4372-beab-fac34d5b8539@104.17.147.22:443?encryption=none&security=tls&sni=72790032528889957475364702518915.v2line.online&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&type=ws&host=72790032528889957475364702518915.v2line.online&path=%2Fnetherlands%2Famsterdam%2Fvl%2Fws%2Ftls#%40meli_proxyy
+vless://190492bf-0111-451b-aa16-3490dacd1be7@e.nl.cdn.maviks.eu:443?encryption=none&security=tls&sni=cdn-nodes.maviks.eu&fp=chrome&type=ws&host=cdn-nodes.maviks.eu&path=%2FpLmdwS3fSrE9WwdgE3LdG2%3Fed%3D2560#%40meli_proxyy
+vless://190492bf-0111-451b-aa16-3490dacd1be7@nodes.maviks.eu:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=maviks.eu&fp=chrome&pbk=lyLhdojpACv6B3tHViJvPjNGATedXYRMnpAt4n4Siyo&sid=f203719d3ff9a5f5&type=tcp&headerType=none&host=telegram-join-v2xaytelegram-join-v2xay-telegram-join#%40meli_proxyy
+vless://190492bf-0111-451b-aa16-3490dacd1be7@a.nl.maviks.eu:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=maviks.eu&fp=chrome&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&sid=21181028b56c8702&type=tcp&headerType=none#%40meli_proxyy
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.80.111.20:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=%2F%3Fed%3D2560#%F0%9F%8D%934%40oneclickvpnkeys
+trojan://telegram-id-privatevpns@3.74.181.8:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
+trojan://telegram-id-directvpn@3.74.181.8:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.74.181.8:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1MDYzNFx1MDYzMVx1MDY0OFx1MDYzOSBcdTA2NDJcdTA2Q0NcdTA2NDVcdTA2MkEgXHUwNjI3XHUwNjMyIDE1IFx1MDYyQVx1MDY0OFx1MDY0NVx1MDYyN1x1MDY0NiB8IEBBcnlhbmFuZXRfYm90IiwNCiAgImFkZCI6ICIxNzIuNjcuMTU0Ljg0IiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogImU1MzdmMmY1LTJhMGMtNGY1OS05MmM5LTgzMmNhNjQzM2JmMyIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJhdXRvIiwNCiAgImhvc3QiOiAiaXJ2aWRlby5jZmQiLA0KICAicGF0aCI6ICIvbGlua3dzIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@209.46.30.20:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#PersianGulf%2070%20%28%40Outline_Vpn%29
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.5.20:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#PersianGulf%2071%20%28%40Outline_Vpn%29
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.159.216.20:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#PersianGulf%2072%20%28%40Outline_Vpn%29
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@92.53.189.20:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#PersianGulf%2073%20%28%40Outline_Vpn%29
+vless://TELEGRAM-ServerNett@[2a01:4f8:1c1b:247d::1]:50651?security=none&encryption=none&headerType=none&type=tcp#https://t.me/falcunargohttps://t.me/falcunargohttps://t.me/falcunargohttps://t.me/falcunargohttps://t.me/falcunargo
+vless://telegram-id-ArV2ray3@193.46.81.83:3567?mode=gun&security=reality&encryption=none&pbk=_5Hw5RRcDyCnW7H3Ubmp9UnqNiQUaKfB5rPTDqI_kAA&fp=chrome&type=grpc&serviceName=telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray&sni=maps.google.com&sid=c14b9292de5a8d6f#https://t.me/falcunargohttps://t.me/falcunargohttps://t.me/falcunargohttps://t.me/falcunargohttps://t.me/falcunargohttps://t.me/falcunargohttps://t.me/falcunargo
+vless://faa47bdc-8581-4e47-a557-35caa72681bd@104.16.173.114:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=delicate-feather-dc36-ppal03.shah-beck.workers.dev&type=ws#%40V2rayNGVPN
+vless://7ee0cedb-1f06-4be9-8444-51f289a4bf12@172.64.86.167:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=morning-sound-6fa2-ppal03.tinemo7285.workers.dev&type=ws#%40V2rayNGVPN
+vless://ec1bb388-649c-4deb-9eb1-a096b784e0d3@104.24.167.96:80?path=%2Ftelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=round-truth-4e97-ppal03.vegasow726.workers.dev&type=ws#%40V2rayNGVPN
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1MDYzNFx1MDYzMVx1MDY0OFx1MDYzOSBcdTA2NDJcdTA2Q0NcdTA2NDVcdTA2MkEgXHUwNjI3XHUwNjMyIDE1IFx1MDYyQVx1MDY0OFx1MDY0NVx1MDYyN1x1MDY0NiB8IEBBcnlhbmFuZXRfYm90IiwNCiAgImFkZCI6ICIxNzIuNjcuMTU2LjIxMCIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICI3NjIyMWJmYi1lOTJmLTRlODAtODFjNS02ZmU0OGY1MGFjMGIiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAiYXV0byIsDQogICJob3N0IjogImdsd2VpZGYuc2JzIiwNCiAgInBhdGgiOiAiL2xpbmt3cyIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@188.42.89.20:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=%2F#%F0%9F%8D%936%40oneclickvpnkeys
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.159.216.20:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=%2F%3Fed%3D2560#%F0%9F%8D%937%40oneclickvpnkeys
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.129.164.20:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir#%F0%9F%8D%935%40oneclickvpnkeys
+trojan://tg-fq521free@216.24.57.30:443/?type=ws&host=torjan.xn--xhq44j.eu.org&path=%2F&security=tls&sni=torjan.xn--xhq44j.eu.org#%F0%9F%8D%938%40oneclickvpnkeys
 trojan://Aimer@108.165.152.58:2087/?type=ws&host=epmw.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560&security=tls&sni=epmw.ambercc.filegear-sg.me#%F0%9F%8D%939%40oneclickvpnkeys
 vless://190492bf-0111-451b-aa16-3490dacd1be7@a.nl.maviks.eu:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=maviks.eu&fp=chrome&security=reality&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&sid=21181028b56c8702#%F0%9F%8D%9345%40oneclickvpnkeys
 ss://YWVzLTI1Ni1nY206TWtaRWJYUk9iSEp0U0VKVVdsZHlUWFJxVWxoMk4xTk5jMGhUU20wNGVtOD0@[2600:1900:41a0:fd0f::]:29813#%F0%9F%8D%9348%40oneclickvpnkeys
@@ -7,30 +33,6 @@ ss://YWVzLTI1Ni1nY206TmtSSlZHbE5SM0pCUVc1VWR6aDFRWFF4UWtWWE0xaFFXbTVCZDFSTFMydz0
 trojan://Aimer@192.210.207.89:20080/?type=ws&host=epme.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560&security=tls&sni=epme.ambercc.filegear-sg.me#%F0%9F%8D%9344%40oneclickvpnkeys
 vless://ea286109-d20f-415e-849e-4af20ab04b65@47.251.95.178:443/?type=tcp&encryption=none&security=tls&sni=147135001195.sec22org.com#%F0%9F%8D%9346%40oneclickvpnkeys
 vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@140.83.57.183:22735/?type=ws&encryption=none&host=steep.skyfigure.top&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40pgkj666%20%2F%3Fed%3D2560&security=tls&sni=steep.skyfigure.top#%F0%9F%8D%9353%40oneclickvpnkeys
-vless://190492bf-0111-451b-aa16-3490dacd1be7@a.nl.cdn.maviks.eu:443/?type=httpupgrade&encryption=none&host=cdn.maviks.eu&path=%2FMaGLM25tSikPTFr75Q0Yri&security=tls&sni=cdn.maviks.eu&fp=chrome#%F0%9F%8D%9318%40oneclickvpnkeys
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@89.116.180.20:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=%2F%3Fed%3D2560#%F0%9F%8D%9329%40oneclickvpnkeys
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.67.215.20:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=%2F%3Fed%3D2560#%F0%9F%8D%932%40oneclickvpnkeys
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@14.102.229.20:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=%2F#%F0%9F%8D%933%40oneclickvpnkeys
-vless://7d5e5f68-8c6b-4265-9f53-35f1ae8f9167@join.vpncustomize.cloud1.hosting-ip.com:8880/?type=ws&encryption=none&host=join.vpncustomize.iran.ir.arvancloud.ir.www.speedtest.net.yout.ddns-ip.net&path=%2FTelegram%E2%80%94VPNCUSTOMIZE%3Fed%3D2048#%F0%9F%8D%9330%40oneclickvpnkeys
-vless://7d5e5f68-8c6b-4265-9f53-35f1ae8f9167@91.206.71.162:8880/?type=ws&encryption=none&host=join.vpncustomize.iran.ir.arvancloud.ir.www.speedtest.net.yout.ddns-ip.net&path=%2FTelegram%E2%80%94VPNCUSTOMIZE%3Fed%3D2048#%F0%9F%8D%9331%40oneclickvpnkeys
-vless://67d3bda1-c496-41e8-9be0-49a9782134f9@151.101.2.228:80/?type=ws&encryption=none&host=joinshhproxybedeedeeeeee.ir&path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048#%F0%9F%8D%9333%40oneclickvpnkeys
-vless://67d3bda1-c496-41e8-9be0-49a9782134f9@151.101.66.228:80/?type=ws&encryption=none&host=joinshhproxybedeedeeeeee.ir&path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048#%F0%9F%8D%9332%40oneclickvpnkeys
-vless://401374e6-df77-41fb-f638-dad8184f175b@104.26.2.186:443/?type=grpc&encryption=none&security=tls&sni=pqh24v3.hiddendom.shop&alpn=h2#%F0%9F%8D%9337%40oneclickvpnkeys
-vless://cb1bd2cd-0635-4b6e-a05c-2f45cd1c140e@184.174.96.158:2052/?type=grpc&encryption=none&serviceName=vless-grpc#%F0%9F%8D%9336%40oneclickvpnkeys
-vless://ea286109-d20f-415e-849e-4af20ab04b65@135.148.152.98:443/?type=tcp&encryption=none&security=tls&sni=147135001195.sec22org.com&alpn=h2%2Chttp%2F1.1&fp=chrome#%F0%9F%8D%9340%40oneclickvpnkeys
-trojan://3d4ad187-b554-4300-bf71-d26c71962504@104.21.78.243:443/?type=ws&host=FFfgtyy.7282728.XYZ&path=%2FWaHA3RC540rQ8PWqRcOEICAwmfH7&security=tls&sni=FFfgtyy.7282728.XYZ&fp=chrome#%F0%9F%8D%9335%40oneclickvpnkeys
-vless://43324bdf-a0e8-4f6f-8bdc-5482db82fd0f@104.21.25.95:443/?type=ws&encryption=none&host=ws345.890604.filegear-sg.me&path=%2Fh1iXYtqUZkDQMvgKagyIefJfM0OQ&security=tls&sni=ws345.890604.fIlEGeAR-Sg.me&alpn=http%2F1.1&fp=chrome#%F0%9F%8D%9341%40oneclickvpnkeys
-vless://ea286109-d20f-415e-849e-4af20ab04b65@135.148.182.1:443/?type=tcp&encryption=none&security=tls&sni=147135001195.sec22org.com#%F0%9F%8D%9338%40oneclickvpnkeys
-trojan://Aimer@192.3.127.231:443/?type=ws&host=epmw.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560&security=tls&sni=epmw.ambercc.filegear-sg.me#%F0%9F%8D%9343%40oneclickvpnkeys
-trojan://44ed7a37-af89-4cd1-8680-83a7207810d9@104.21.64.1:443/?type=ws&host=21sWDE.7777128.xYZ&path=%2FHpYP4foAlpTKtfYnjLYhU30U&security=tls&sni=21sWDE.7777128.xYZ&fp=chrome#%F0%9F%8D%9334%40oneclickvpnkeys
-vless://585acd30-52bf-4b70-a537-e13649fafefc@172.67.212.59:443/?type=ws&encryption=none&host=bba.890601.pp.ua&path=%2FrU9rSjDSOd4yY2fOe&security=tls&sni=bBA.890601.pP.UA&alpn=http%2F1.1&fp=chrome#%F0%9F%8D%9342%40oneclickvpnkeys
-vless://1549e70f-dc57-45e3-ac7c-515f0161db72@172.67.155.140:443/?type=ws&encryption=none&host=xxse.huangshang.dpdns.org&path=%2FIKLitbwX0RSt1mktNrT&security=tls&sni=XXSe.hUaNGsHaNg.DpdNS.org&alpn=http%2F1.1&fp=chrome#%F0%9F%8D%9339%40oneclickvpnkeys
-trojan://Aimer@141.11.203.191:8443/?type=ws&host=epmw.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560&security=tls&sni=epmw.ambercc.filegear-sg.me#%F0%9F%8D%9323%40oneclickvpnkeys
-vless://190492bf-0111-451b-aa16-3490dacd1be7@nodes.maviks.eu:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=maviks.eu&fp=chrome&security=reality&pbk=lyLhdojpACv6B3tHViJvPjNGATedXYRMnpAt4n4Siyo&sid=f203719d3ff9a5f5#%F0%9F%8D%9322%40oneclickvpnkeys
-vless://75fde681-ec64-4654-86fa-30732e8e179c@62.3.12.185:443/?type=ws&encryption=none&host=nginx-z.pages.dev&path=%2Fassets%3Fed%3D2560&security=tls&sni=NGINX-Z.pages.DEV&alpn=h3&fp=chrome#%F0%9F%8D%9328%40oneclickvpnkeys
-vless://bfab9a68-5545-5270-bfdd-c9a5476ca066@84.235.237.246:33001/?type=tcp&encryption=none&sni=fr.zran.top&fp=chrome&security=reality&pbk=lCw-J-VD2RWK0khO3ySjqdsfSV2qnVx8y91WV8AKMkw&sid=#%F0%9F%8D%9325%40oneclickvpnkeys
-vless://190492bf-0111-451b-aa16-3490dacd1be7@ru.maviks.eu:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=maviks.eu&fp=chrome&security=reality&pbk=cGzNRbN_zruI3CVTDukB2nOqWWEj7kgkay24f2fdLmQ&sid=0f917152a871e9c0#%F0%9F%8D%9327%40oneclickvpnkeys
-vless://3d8d5627-62c0-491a-ad68-0079983f95e1@185.168.194.59:41445/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tesla.com&fp=chrome&security=reality&pbk=eb0fWFAevT3a_BqrfJ2dLhY_Hv910o9LSmaumdZpIyQ&sid=f8a537#%F0%9F%8D%9319%40oneclickvpnkeys
 تمام نت ها نامحدود 
 
 
@@ -285,13 +287,6 @@ vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@172.67.75.194:8443?path=%2F%3Fed%3D
 
 
 @vpnstur
-تمام نت ها نامحدود 
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.199:8080#oiytfffdd
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.158.171.151:8080#uqyagagf
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.130:990#oauahzg
 🔻با یک ضربه روی سرور کپی میشود ، سپس سرور را وارد و متصل شوید. 
 
 🌎مخابرات (پر سرعت )⚡️
