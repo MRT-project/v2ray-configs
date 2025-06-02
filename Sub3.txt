@@ -1,6 +1,4 @@
 # 8J+GkyBUZWxlZ3JhbSBDb25maWcgfCBTdWIzIPCflKU=
-vless://534948ca-cf21-4447-91b7-3396c751cdaf@77.110.116.150:30722?security=none&encryption=none&headerType=none&type=tcp#ugfsxcv
-
 vless://7d6c8e28-8f81-5a74-9257-24b1e0a841a9@88.218.95.12:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc&sni=vpnAndroid2..com.vpnAndroid2.org#htdssz
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.111.250:8880?mode=gun&security=none&encryption=none&type=grpc#sdtesaa
