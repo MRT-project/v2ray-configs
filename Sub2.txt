@@ -1,4 +1,31 @@
 # 8J+GkyBUZWxlZ3JhbSBDb25maWcgfCBTdWIyIPCflKU=
+vless://92fc3c1b-c409-4610-b1a6-9a8ef4287891@v24.vxlimir.com:1370/?type=tcp&encryption=none&sni=refersion.com&fp=chrome&security=reality&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&sid=e1afb93bfe75a34b#%F0%9F%A5%A654%40oneclickvpnkeys
+vless://49d4a648-b344-489a-903c-150e3efe2380@194.182.79.216:52843/?type=grpc&encryption=none&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#%F0%9F%A5%A66%40oneclickvpnkeys
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.86:8880/?type=grpc&encryption=none#%F0%9F%A5%A67%40oneclickvpnkeys
+vless://6bc29783-3ff6-4379-8650-611a7095307b@129.159.227.221:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=767w1-7kjd0-9kcf2.xn--4gq62f52gppi29k.com&fp=safari#%F0%9F%A5%A664%40oneclickvpnkeys
+vless://00026cc2-d2a5-41b2-86a0-2c5fb2e5018d@15.235.211.28:30411/?type=ws&encryption=none&path=%2F00026cc2#%F0%9F%A5%A666%40oneclickvpnkeys
+vless://f5d5f7c9-e573-4fb6-8faf-8db450db9b07@cdn-googlecloud-auth.myservice.com.update.lornavps.ir:8880/?type=tcp&encryption=none&sni=refersion.com&fp=chrome&security=reality&pbk=cJydPsZ25g4KQeuu8tGZE-9l6uB6uvdHZxyAfa3NrAQ&sid=e3bbc3601946f0e4#%F0%9F%A5%A670%40oneclickvpnkeys
+vless://6bc29783-3ff6-4379-8650-611a7095307b@3bd9.55dca.e048.f7-fef1f.yfjcs.com:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=b295-23ap29-6bh.xn--4gq62f52gppi29k.com&fp=safari#%F0%9F%A5%A671%40oneclickvpnkeys
+vless://6bc29783-3ff6-4379-8650-611a7095307b@3bd9.55dca.e048.f9-fef1f.yfjcs.com:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=yfsg-1.xn--4gq62f52gppi29k.com&fp=chrome#%F0%9F%A5%A672%40oneclickvpnkeys
+vless://6bc29783-3ff6-4379-8650-611a7095307b@3bd9.55dca.e048.f8-fef1f.yfjcs.com:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=yfsg-1.xn--4gq62f52gppi29k.com&fp=firefox#%F0%9F%A5%A673%40oneclickvpnkeys
+vless://6bc29783-3ff6-4379-8650-611a7095307b@3bd9.55dca.e048.f10-fef1f.yfjcs.com:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=yfsg-1.xn--4gq62f52gppi29k.com&fp=ios#%F0%9F%A5%A674%40oneclickvpnkeys
+vless://92fc3c1b-c409-4610-b1a6-9a8ef4287891@v08.vxlimir.com:1370/?type=tcp&encryption=none&sni=refersion.com&fp=chrome&security=reality&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&sid=e1afb93bfe75a34b#%F0%9F%A5%A675%40oneclickvpnkeys
+vless://6bc29783-3ff6-4379-8650-611a7095307b@3bd9.55dca.e048.f3-fef1f.yfjcs.com:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=yfjp.xn--4gq62f52gppi29k.com&fp=safari#%F0%9F%A5%A676%40oneclickvpnkeys
+vless://6bc29783-3ff6-4379-8650-611a7095307b@3bd9.55dca.e048.f6-fef1f.yfjcs.com:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=yfjp.xn--4gq62f52gppi29k.com&fp=ios#%F0%9F%A5%A677%40oneclickvpnkeys
+vless://6bc29783-3ff6-4379-8650-611a7095307b@3bd9.55dca.e048.f4-fef1f.yfjcs.com:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=yfjp.xn--4gq62f52gppi29k.com&fp=ios#%F0%9F%A5%A678%40oneclickvpnkeys
+vless://6bc29783-3ff6-4379-8650-611a7095307b@3bd9.55dca.e048.f1-fef1f.yfjcs.com:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=yfjp.xn--4gq62f52gppi29k.com&fp=chrome#%F0%9F%A5%A679%40oneclickvpnkeys
+vless://6bc29783-3ff6-4379-8650-611a7095307b@3bd9.55dca.e048.f61-fef1f.yfjcs.com:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=yfhk1.xn--4gq62f52gppi29k.com&fp=chrome#%F0%9F%A5%A680%40oneclickvpn
+vless://0ce4d0ac-f23e-4921-97fc-c2a3acefac0a@194.182.79.41:48615/?type=grpc&encryption=none&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#%F0%9F%A5%A68%40oneclickvpnkeys
+vless://72c0d6c7-5960-4adf-af8b-46d58d462322@Join.VPNCUSTOMIZE.cloud1.hosting-ip.com:8880?path=%2FTelegram—VPNCUSTOMIZE%3Fed%3D2048&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=join.vpncustomize.iran.ir.arvancloud.ir.www.speedtest.net.yout.ddns-ip.net&fp=randomized&type=ws#MTN%20%26%20MCI%20%40VPNCUSTOMIZE
+vless://6bc29783-3ff6-4379-8650-611a7095307b@192.9.142.185:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=b295-23ae29-6bh.xn--4gq62f52gppi29k.com&fp=chrome#%F0%9F%A5%A655%40oneclickvpnkeys
+vless://92fc3c1b-c409-4610-b1a6-9a8ef4287891@v29.vxlimir.com:1370/?type=tcp&encryption=none&sni=refersion.com&fp=chrome&security=reality&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&sid=e1afb93bfe75a34b#%F0%9F%A5%A657%40oneclickvpnkeys
+vless://92fc3c1b-c409-4610-b1a6-9a8ef4287891@v20.vxlimir.com:1370/?type=tcp&encryption=none&sni=refersion.com&fp=chrome&security=reality&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&sid=e1afb93bfe75a34b#%F0%9F%A5%A642%40oneclickvpnkeys
+vless://TelegramChanell---Archive-Android@www.speedtest.net:8080?path=/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android%3Fed%3D2048&security=&encryption=none&host=www.speedtest-iran.ir&type=httpupgrade#🇩🇪𝗚𝗲𝗿𝗺𝗮𝗻𝘆
+vless://7da89fba-1b5c-41ac-e247-78ee21cfaa32@www.speedtest.net:8080?path=/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android%3Fed%3D2048&security=&encryption=none&host=www.speedtest-iran.ir&type=httpupgrade#🇩🇪𝗚𝗲𝗿𝗺𝗮𝗻𝘆
+vless://f5d5f7c9-e573-4fb6-8faf-8db450db9b07@tadrisonlin-tadrislorna-tadrisonlin-tadrisonlin-tadrisonlin.lornavps.ir:8080/?type=grpc&encryption=none&sni=rEfErSion.Com.&fp=chrome&security=reality&pbk=CZWbmrDdvesNCBlbMBuvHsJiR8Hsxmsd8DWDR_2JrjM&sid=8e36c7e79b74a6fa#%F0%9F%A5%A644%40oneclickvpnkeys
+vless://92fc3c1b-c409-4610-b1a6-9a8ef4287891@v21.vxlimir.com:1370/?type=tcp&encryption=none&sni=refersion.com&fp=chrome&security=reality&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&sid=e1afb93bfe75a34b#%F0%9F%A5%A645%40oneclickvpnkeys
+vless://92fc3c1b-c409-4610-b1a6-9a8ef4287891@v28.vxlimir.com:1370/?type=tcp&encryption=none&sni=refersion.com&fp=chrome&security=reality&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&sid=e1afb93bfe75a34b#%F0%9F%A5%A646%40oneclickvpnkeys
+vless://92fc3c1b-c409-4610-b1a6-9a8ef4287891@v10.vxlimir.com:1370/?type=tcp&encryption=none&sni=refersion.com&fp=chrome&security=reality&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&sid=e1afb93bfe75a34b#%F0%9F%A5%A647%40oneclickvpnkeys
 trojan://44ed7a37-af89-4cd1-8680-83a7207810d9@172.67.135.37:443/?type=ws&host=cctv4.459.pp.ua&path=%2FHpYP4foAlpTKtfYnjLYhU30U&security=tls&sni=cCtv4.459.pp.uA#%F0%9F%A5%A648%40oneclickvpnkeys
 vless://92fc3c1b-c409-4610-b1a6-9a8ef4287891@v16.vxlimir.com:1370/?type=tcp&encryption=none&sni=refersion.com&fp=chrome&security=reality&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&sid=e1afb93bfe75a34b#%F0%9F%A5%A649%40oneclickvpnkeys
 vless://6bc29783-3ff6-4379-8650-611a7095307b@64.181.255.250:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=b295-23ae29-6bh.xn--4gq62f52gppi29k.com&fp=safari#%F0%9F%A5%A650%40oneclickvpnkeys
@@ -391,15 +418,6 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.19:80?path=%2FTelegramU
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@13.87.99.136:443#%F0%9F%94%92%20%40Vpn_Click%20%F0%9F%87%AC%F0%9F%87%A7
 trojan://telegram-id-privatevpns@63.178.168.205:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%94%92%20%40Vpn_Click%20%F0%9F%87%A9%F0%9F%87%AA
 trojan://KW7FfNUocjGWmVO6HOp5tA@142.93.166.50:2059?security=none&headerType=&type=tcp#%F0%9F%94%92%20TR-TCP-NONE%20%F0%9F%87%A9%F0%9F%87%AA%20DE-142.93.166.50%3A2059
-vmess://eyJhZGQiOiIxNS4yMDQuMTEuMTkwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjVkN2JmOWUzLTQxNWMtNDBmMy1jNjZkLWE1NGVhMGZkODYwZSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTUzNjEiLCJwcyI6IjQ28J+Nk0BvbmVjbGlja3ZwbmtleXMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
-vless://4c984320-223c-45ea-8481-1d7a8998393c@o.soskom.ir:11045?mode=gun&security=reality&encryption=none&authority=&pbk=p-FNeH1T5de5nmwI7iT16MQKWspQ0b6C9GGSRwGtlnM&fp=chrome&spx=%2F&type=grpc&serviceName=Tel+%3A+%40NT_Safe&sni=yahoo.com&sid=20db1be5e1ab118a#%40BLACK_VPN1
-vmess://eyJob3N0IjoiIiwic2VydmljZU5hbWUiOiJub25lIiwic25pIjoiIiwicG9ydCI6IjQ0MDIzIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJzZWVkIjoiIiwiZXh0cmEiOiIiLCJoZWFkZXJUeXBlIjoibm9uZSIsImRldmljZUlEIjoiIiwibW9kZSI6IiIsInYiOiIyIiwicHMiOiJmYWZhIiwiYWlkIjoiMCIsImZwIjoiIiwiaWQiOiI3ZGE0NTdkYS1lZDBmLTQzN2QtYzgxZC02YzM1ODg1YmJlYTMiLCJ0bHMiOiJub25lIiwicGF0aCI6IiIsImZyYWdtZW50IjoiIiwiYWxwbiI6IiIsImFkZCI6IjUxLjM4LjY0LjIwOSJ9
-vless://4f7f81ac-07fe-4d6a-ba57-728cb970b9fb@194.182.79.143:36936?security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON?ed%3D2048#fafa
-vless://49d4a648-b344-489a-903c-150e3efe2380@194.182.79.216:52843?security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON?ed%3D2048#fafa
-vless://840dc994-d232-4b71-b133-4f36a874c867@p9.punchline.ir:29570?security=reality&encryption=none&type=xhttp&path=/v2raybluecrystal&sni=www.microsoft.com&sid=37&fp=chrome&pbk=lOuhgB0K7paehmJFBxd0GxSY2Ax00niQGkpH3-8jKz4&spx=/&mode=auto#fafa
-vless://telegram-id-ArV2ray9@151.101.64.155:80?security=none&encryption=none&type=ws&host=mard.ankaboti.com.#fafa
-vless://3536e1fa-0850-44d1-b123-925ce12476cf@89.144.25.236:443?mode=stream-one&path=%2Fkavir%2F%3FTELEGRAM%40MARAMBASHI_MARAMBASHI&security=tls&alpn=h2&encryption=none&host=kavir.lnmarketplace.net&fp=firefox&type=xhttp&sni=kavir.lnmarketplace.net#%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%F0%9F%8C%8B%40vmesc
-vless://481c5606-b586-44d7-bc2e-d8ef30d67f62@176.120.72.63:38339/?type=tcp&encryption=none&flow=&sni=dl.google.com&fp=chrome&security=reality&pbk=o0MFuznHh_Wztg0FTAMhFXm3hjAqOJAJIIVNn-_A9WA&sid=e16883e511#%25F0%259F%2587%25B0%25F0%259F%2587%25BF%2540FREE2CONFIG
 تمام نت ها نامحدود 
 
 
@@ -481,21 +499,3 @@ vless://52a0b1c0-0b8d-4e08-a2ae-89f6f13852b4@45.77.230.57:55311?security=reality
 تمام نت ها نامحدود 
 
 vless://f38e1473-0bb8-4190-8d49-ba1aaaf4e264@157.180.28.52:2087?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&sni=pics.floorshoping22.com#uatavf
-
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.176:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh32v6.film32western.shop#uayavf
-
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.144:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh27v6.nature27.shop#isyaagf
-تمام نت ها نامحدود 
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGNk1BQVhUU0xmejZaU1RrOWdHYWJo@91.84.100.42:1843#oaiahg
-
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.159.248.125:8880?mode=gun&security=none&encryption=none&type=grpc#iauaagg
-v2ray نامحدود 
-
-vless://10d9df89-9a20-4110-9711-bca119490ee9@104.21.80.1:80?path=%2FTM%40AZAFBAYJAB1&security=none&encryption=none&host=masaleini.mahsaamini.dpdns.org&type=ws#vpnstur
-
-
-
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@172.67.204.84:443?path=%2Fre5IzbZ9IZZMddtw%3Fed%3D2560&security=tls&encryption=none&host=ipsychO.SUEx12.Ir&fp=randomized&type=ws&sni=ipsychO.SUEx12.Ir#vpnstur
-تمام نت ها نامحدود 
-
