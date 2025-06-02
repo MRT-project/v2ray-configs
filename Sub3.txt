@@ -1,4 +1,6 @@
 # 8J+GkyBUZWxlZ3JhbSBDb25maWcgfCBTdWIzIPCflKU=
+vless://10d9df89-9a20-4110-9711-bca119490ee9@104.21.80.1:80?path=%2FTM%40AZAFBAYJAB1&security=none&encryption=none&host=masaleini.mahsaamini.dpdns.org&type=ws#vpnstur
+
 
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@172.67.204.84:443?path=%2Fre5IzbZ9IZZMddtw%3Fed%3D2560&security=tls&encryption=none&host=ipsychO.SUEx12.Ir&fp=randomized&type=ws&sni=ipsychO.SUEx12.Ir#vpnstur
