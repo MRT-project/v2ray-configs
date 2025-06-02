@@ -1,4 +1,9 @@
 # 8J+GkyBUZWxlZ3JhbSBDb25maWcgfCBTdWIzIPCflKU=
+تا فردا وصله 
+#v2ray
+تمام نت ها نامحدود 
+
+vless://f38e1473-0bb8-4190-8d49-ba1aaaf4e264@157.180.28.52:2087?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&sni=pics.floorshoping22.com#uatavf
 
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.176:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh32v6.film32western.shop#uayavf
 
