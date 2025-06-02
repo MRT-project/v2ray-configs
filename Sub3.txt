@@ -1,5 +1,7 @@
 # 8J+GkyBUZWxlZ3JhbSBDb25maWcgfCBTdWIzIPCflKU=
 
+vless://6603a779-07c9-4bc9-8f61-4a09c238653a@62.60.193.221:32774?path=%2F6603a779&security=none&encryption=none&type=ws#utesddedg
+
 vless://faa5c704-9d46-5753-905e-b56c7af4ed03@194.226.121.190:2052?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#itdsdd
 
 vless://8c8873fb-6e68-4359-8d67-092d399612c9@95.38.38.226:26000?security=none&encryption=none&host=www.irna.ir.www.alibaba.ir&headerType=http&type=tcp#itdss
