@@ -1,4 +1,8 @@
 # 8J+GkyBUZWxlZ3JhbSBDb25maWcgfCBTdWIyIPCflKU=
+vless://faaaf16e-188e-42f2-bcc1-17feadc84fad@151.236.15.72:444?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=opensuse.org&pbk=FOSoac3DIrSrCUcBtQA-BdHMxCtqe2CYCpdvGxKMiUw&sid=82b9ca5d8d39ba72&spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#%F0%9F%87%A9%F0%9F%87%AA@EVAY_VPN
+vless://f5d5f7c9-e573-4fb6-8faf-8db450db9b07@165.227.185.247:8880?type=tcp&security=reality&fp=safari&sni=refersion.com&pbk=cJydPsZ25g4KQeuu8tGZE-9l6uB6uvdHZxyAfa3NrAQ&sid=e3bbc3601946f0e4&spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#%F0%9F%87%BA%F0%9F%87%B8@EVAY_VPN
+vless://23f9220d-6990-47d3-97ff-e8579e6c7334@150.241.89.219:35352?mode=auto&path=%2Fv2raybluecrystal&security=reality&encryption=none&pbk=GRvQgvgbqLP6iEOSPK7RWw4vVhJA4wxo6oO8qgt28jo&fp=chrome&type=xhttp&sni=www.microsoft.com&sid=2587dec2#%40NETMelliAnti%20%3A%20%DA%86%D9%86%D9%84%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF
+vless://d7cd26f0-0b6b-49bd-9965-d4fbef701ffc@104.21.48.1:443?path=%2Fn9ZdF2V4va1tyqGM%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=kn8a8qkc8xjapyvbgpuxrji85sfkv1o8.ilia-talebi09.workers.dev&fp=randomized&type=ws&sni=Kn8a8qkc8xjaPyvBgPuXrji85Sfkv1o8.IliA-TALEBI09.wOrKErS.deV#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20%3A%20443
 vless://TELEGRAM-NUFiLTER@NUFiLTER.fastly80-2.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER&security=none&encryption=none&host=Vip.nufilter.com&type=ws#%40NUFiLTER+%F0%9F%87%A9%F0%9F%87%AA+ws
 vless://ea1ace01-6b6e-4401-bc84-e6fab15283fa@172.67.209.60:443?path=%2F8SgHUCa9rohiCVOzju871XiFr9&security=tls&alpn=http%2F1.1&encryption=none&host=covh.blanku.me&fp=chrome&type=httpupgrade&sni=covh.blanku.me#%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%F0%9F%8C%8B%40vmesc
 vless://d7cd26f0-0b6b-49bd-9965-d4fbef701ffc@104.21.48.1:443?path=%2Fn9ZdF2V4va1tyqGM%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=kn8a8qkc8xjapyvbgpuxrji85sfkv1o8.ilia-talebi09.workers.dev&fp=randomized&type=ws&sni=Kn8a8qkc8xjaPyvBgPuXrji85Sfkv1o8.IliA-TALEBI09.wOrKErS.deV#%40nofilter_v2rayNg
@@ -494,8 +498,4 @@ vless://9fdef857-437d-40af-82ca-2c76de893eb6@95.164.16.166:3567?mode=gun&securit
 vless://Parsashonam-244@Zmaoz.Faculty.Ucdavis.Edu:80?path=%2F%40Parsashonam%3Fed%3D2048&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=Parsashonam-DE.ir&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#dfgygf
 تمام نت ها نامحدود 
 
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.110:8080#uayavfc
-
-vless://df8b1eef-ece7-4e28-b416-800b9ae88c45@49.13.60.152:684?mode=gun&security=none&encryption=none&type=grpc&serviceName=iran.bonyadedocker.ir#ajayvg
 
