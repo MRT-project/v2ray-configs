@@ -1,4 +1,9 @@
 # 8J+GkyBUZWxlZ3JhbSBDb25maWcgfCBTdWIzIPCflKU=
+vless://d431e60a-2a26-46ef-b0a8-644143727c12@138.197.44.242:52605/?type=tcp&encryption=none#%F0%9F%A7%A215%40oneclickvpnkeys
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@34.219.129.48:443#%F0%9F%A7%A235%40oneclickvpnkeys
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@50.112.62.208:443#%F0%9F%A7%A236%40oneclickvpnkeys
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@52.13.8.191:443#%F0%9F%A7%A233%40oneclickvpnkeys
+ss://YWVzLTI1Ni1nY206YW1hem9uc2tyMDU@18.236.134.32:80#%F0%9F%A7%A237%40oneclickvpnkeys
 trojan://0212fab5-e93c-4904-b7a8-187fd535f354@3sxcvbb.890617.xyz:443/?type=ws&host=3sxcvbb.890617.xyz&path=%2FrFt8MpX4JNWO67qEaMINZ1&security=tls&sni=3sxcvbb.890617.xyz&alpn=http%2F1.1&fp=chrome#%F0%9F%A7%A229%40oneclickvpnkeys
 trojan://0212fab5-e93c-4904-b7a8-187fd535f354@3wsxcvbn.890617.xyz:443/?type=ws&host=3wsxcvbn.890617.xyz&path=%2FrFt8MpX4JNWO67qEaMINZ1&security=tls&sni=3wsxcvbn.890617.xyz&alpn=http%2F1.1&fp=chrome#%F0%9F%A7%A226%40oneclickvpnkeys
 vless://0212fab5-e93c-4904-b7a8-187fd535f354@3ws.938.pp.ua:443/?type=ws&encryption=none&host=3ws.938.pp.ua&path=%2FIcc2cX4ThvubEYxWO67qEaMINZ1&security=tls&sni=3ws.938.pp.ua&alpn=http%2F1.1&fp=chrome&packetEncoding=xudp#%F0%9F%A7%A225%40oneclickvpnkeys
@@ -494,8 +499,3 @@ vless://72252d0d-fc5a-4803-b0c5-691ec686b1a6@78.47.81.218:47310?mode=auto&path=%
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1NzAxMjVlM2YyMzY2ZjY2QDIxNy43Ny4yLjI0ODoyMzM3NQ==#@meli_proxyy
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1YzBhOTIxNmJlMzhkZmNhQDUxLjE5NS4yMTguMjAxOjI3NTIy#@meli_proxyy
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.104:8880?mode=gun&security=none&encryption=none&type=grpc#MCI-%40V2ray_Alpha-15
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.69:8080#IR-%40V2ray_Alpha-1
-vmess://eyJhZGQiOiI2OC4xNjguMzEuMTg0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjlmOGIxNmE4LTM2OWQtNGI3OS1hZjgyLTIwMWMwODlkYWRkMiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMjY5MjQiLCJwcyI6IjI38J+NkEBvbmVjbGlja3ZwbmtleXMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
-vless://0a44145f-59dc-4e5b-a233-677b97f5114c@135.148.186.250:443/?type=tcp&encryption=none&security=tls&sni=147135011033.sec21org.com&fp=chrome#28%F0%9F%8D%90%40oneclickvpnkeys
-vless://5e1306ff-3ffa-4166-89ab-1a06ff42eca6@www.speedtest.net:443/?type=ws&encryption=none&host=www.speedtest.net.www.google.com.bing.com.visa.com.tls.htr.ddns-ip.net&path=%2FTelegram-XV2ry2%3Fed%3D512&security=tls&sni=www.speedtest.net.www.google.com.bing.com.visa.com.tls.htr.ddns-ip.net#17%F0%9F%8D%90%40oneclickvpnkeys
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.43:8880/?type=grpc&encryption=none#19%F0%9F%8D%90%40oneclickvpnkeys
