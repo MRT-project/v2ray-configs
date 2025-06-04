@@ -5790,6 +5790,11 @@ vless://98620034-0dee-4575-b83c-8e1b29ba8b2e@37.27.11.39:23340?type=kcp&headerTy
 
 
 حمایت فراموش نشه😘
+wireguard://IIi0qWjug05eWUsXLsYoP79SsVfjPPACM9fG8iG%2Bf2c%3D@188.114.96.247:3854?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8f81%3Ad551%3Aa0%3A532e%3Aa2b3%2F128&presharedkey=&reserved=248%2C43%2C18&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#WiFi
+
+#v2ray 
+
+@vpnstur
 vless://TELEGRAM-ServerNett@[2a01:4f8:c010:45f6::1]:25658?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%92%A14donya
 
 #v2ray 
